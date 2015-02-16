@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UVG</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn">Button</string>
+    <string name="shadowx">Shadowx</string>
+    <string name="shadowy">Shadowy</string>
+    <string name="service">Start Service</string>
+    <string name="btn1">Sunscreen Reminder</string>
+</resources>
